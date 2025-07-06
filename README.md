@@ -21,5 +21,14 @@ Frameworks:    Spring Boot • React.js • Bootstrap
 Databases:     MySQL
 Tools:         IntelliJ IDEA • VS Code • Git & GitHub
 
+## 📦 Featured Projects
+
+| Project | Tech | Description |
+|--------|------|-------------|
+| [🧳 Tourism Management System](https://github.com/ashishjha2910/Tourism-Management-System) | Java + Swing + MySQL | Desktop app for hotel & package booking |
+| [🧠 Online Test Management System](https://github.com/ashishjha2910/Online-Test-Management-System) | Spring Boot + MySQL + Thymeleaf | Web-based quiz system with role-based access |
+| [🎬 Movix Netflix UI](https://github.com/ashishjha2910/Movix-Netflix-Clone) | React.js + TMDB API | Responsive Netflix-style movie UI |
+
+
 
 

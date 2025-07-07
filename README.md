@@ -36,6 +36,14 @@ Tools:         IntelliJ IDEA • VS Code • Git & GitHub
 
 👉 [Click here to view the live app](https://ashishjha2910.github.io/Movix-Netflix-Clone/)
 
+---
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-kumar-99993823b/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/ashishjha2910)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ashishdss258)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashishdss258@gmail.com)
 
 
 

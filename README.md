@@ -80,7 +80,7 @@ Tools:         IntelliJ IDEA • VS Code • Git & GitHub
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishjha2910&theme=radical" alt="GitHub Streak" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishjha2910&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishjha2910&layout=compact&theme=vision-friendly-dark" alt="Top Languages" height="180"/>
 
 </div>
 

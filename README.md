@@ -70,4 +70,17 @@ Tools:         IntelliJ IDEA • VS Code • Git & GitHub
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ashishjha2910&show_icons=true&theme=radical" alt="Ashish's GitHub Stats" height="180"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishjha2910&theme=radical" alt="GitHub Streak" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishjha2910&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+
+</div>
 

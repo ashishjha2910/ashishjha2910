@@ -32,11 +32,7 @@ Tools:         IntelliJ IDEA • VS Code • Git & GitHub
 | [🧠 Online Test Management System](https://github.com/ashishjha2910/Online-Test-Management-System) | Spring Boot + MySQL + Thymeleaf | Web-based quiz system with role-based access |
 | [🎬 Movix Netflix UI](https://github.com/ashishjha2910/Movix-Netflix-Clone) | React.js + TMDB API | Responsive Netflix-style movie UI |
 
-## 🚀 Live Demo
 
-👉 [Click here to view the live app](https://ashishjha2910.github.io/Movix-Netflix-Clone/)
-
----
 
 ## 🔗 Connect with Me
 

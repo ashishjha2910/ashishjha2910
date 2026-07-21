@@ -83,23 +83,25 @@ A web-based online examination platform supporting separate administrative and u
 
 ### 🤖 Jarvis Voice Assistant
 
-**Flutter • ChatGPT API • Speech Recognition API**
+**Flutter • Dart • OpenAI API • Speech Recognition**
 
-An AI-powered voice assistant that enables users to interact with an AI system through voice-based input.
+An AI-powered voice assistant project currently in development, exploring voice-based interaction, conversational AI, and cross-platform mobile application development.
 
-**Key Features:**
+**Planned Features:**
 - 🎙️ Voice-based user interaction
-- 🤖 AI-powered responses using the ChatGPT API
+- 🤖 AI-powered responses using the OpenAI API
 - 🗣️ Speech recognition integration
-- 📱 Interactive application interface
+- 💬 Interactive conversational experience
+- 📱 Cross-platform Flutter application
 
-**What I Built:**
-- Integrated the **ChatGPT API** for AI-powered responses
-- Implemented speech recognition for voice input
-- Developed the interaction flow between the user and AI assistant
-- Worked on the Flutter application interface and functionality
+**What I'm Exploring:**
+- 🔌 OpenAI API integration for AI-powered responses
+- 🎙️ Speech recognition and voice-based input
+- 🔄 Interaction flow between the user and AI assistant
+- 📱 Flutter-based cross-platform application development
+- 🤖 AI agent capabilities and tool-based workflows
 
-🔗 [View Repository](#)
+🔗 [View Repository](https://github.com/ashishjha2910/Jarvis-Voice-Assistant)
 
 ---
 

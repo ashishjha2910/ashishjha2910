@@ -209,17 +209,7 @@ A responsive movie discovery interface inspired by modern streaming platforms.
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ashishjha2910&show_icons=true&theme=radical" alt="Ashish's GitHub Stats" height="180"/>
-
-</div>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishjha2910&theme=radical" alt="GitHub Streak" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishjha2910&layout=compact&theme=vision-friendly-dark" alt="Top Languages" height="180"/>
+langs/?username=ashishjha2910&layout=compact&theme=vision-friendly-dark" alt="Top Languages" height="180"/>
 
 </div>
 

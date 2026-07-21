@@ -7,7 +7,7 @@ I'm a Computer Science graduate interested in building reliable, scalable, and u
 - 💻 Hands-on experience with **Java, Spring Boot, SQL, REST APIs, and web technologies**
 - 🔨 Built projects involving **backend development, databases, authentication, and full-stack application development**
 - 🤖 Exploring **LLM APIs, conversational AI, and AI-powered applications**
-- 🐍 Currently strengthening my skills in **Python, FastAPI, MongoDB, and AI engineering**
+- 🐍 Currently learning **Python, FastAPI, and MongoDB**
 - 🧩 Exploring **AI agents, tool-based workflows, and modern backend architecture**
 - 🎯 Interested in opportunities where I can contribute to real-world projects and grow as a software developer
 - 📫 Email: **ashishdss258@gmail.com**
@@ -43,62 +43,35 @@ I'm a Computer Science graduate interested in building reliable, scalable, and u
 
 ### 👨‍💻 Programming Languages
 
-**Java • Python • JavaScript • SQL • HTML • CSS**
+Java • Python • JavaScript • SQL • HTML • CSS
 
 ### 🚀 Backend & APIs
 
-**Spring Boot • REST APIs • JDBC**
+Spring Boot • REST APIs • JDBC
 
 ### 🎨 Frontend & UI
 
-**React.js • Flutter • Thymeleaf • Bootstrap**
+React.js • Flutter • Thymeleaf • Bootstrap
 
 ### 🛢️ Databases
 
-**MySQL • SQLite • Firebase**
+MySQL • SQLite • Firebase
 
 ### 🤖 AI & API Integration
 
-**OpenAI API • ChatGPT API • Speech Recognition API • REST API Integration**
+OpenAI API • REST API Integration • Speech Recognition
 
 ### 🧰 Tools & Development
 
-**Git • GitHub • IntelliJ IDEA • VS Code**
+Git • GitHub • IntelliJ IDEA • VS Code
 
 ### 🧠 Core Concepts
 
-**Object-Oriented Programming • Data Structures & Algorithms • DBMS • SDLC • Software Testing • Debugging**
+Object-Oriented Programming • Data Structures & Algorithms • DBMS • SDLC • Software Testing • Debugging
 
 ---
 
 # 📦 Featured Projects
-
-## 🤖 Jarvis Voice Assistant
-
-**Flutter • Dart • OpenAI API • Speech Recognition**
-
-An AI-powered voice assistant project currently in development, exploring **voice-based interaction, conversational AI, API integration, and cross-platform mobile application development**.
-
-### ✨ Planned Features
-
-- 🎙️ Voice-based user interaction
-- 🗣️ Speech-to-text input
-- 🤖 AI-powered responses using the OpenAI API
-- 💬 Interactive conversational experience
-- 🔊 Voice response capabilities
-- 📱 Cross-platform Flutter application
-
-### 🔍 What I'm Exploring
-
-- 🔌 OpenAI API integration for AI-powered responses
-- 🎙️ Speech recognition and voice-based input
-- 🔄 Interaction flow between users and AI assistants
-- 📱 Flutter-based cross-platform application development
-- 🧩 AI agent capabilities and tool-based workflows
-
-🔗 **[View Repository](https://github.com/ashishjha2910/Jarvis-Voice-Assistant)**
-
----
 
 ## 🧠 Online Test Management System
 
@@ -122,7 +95,7 @@ A web-based online examination platform supporting separate administrative and u
 - Integrated **MySQL** for persistent data storage
 - Created dynamic web pages using **Thymeleaf**
 
-🔗 **[View Repository](https://github.com/ashishjha2910/Online-Test-Management-System)**
+🔗 [View Repository](https://github.com/ashishjha2910/Online-Test-Management-System)
 
 ---
 
@@ -146,7 +119,7 @@ A desktop-based tourism management application designed to simplify hotel and to
 - Integrated **MySQL** for data storage and management
 - Worked on application logic and database connectivity
 
-🔗 **[View Repository](https://github.com/ashishjha2910/Tourism-Management-System)**
+🔗 [View Repository](https://github.com/ashishjha2910/Tourism-Management-System)
 
 ---
 
@@ -170,11 +143,42 @@ A responsive movie discovery interface inspired by modern streaming platforms.
 - Created a responsive and user-friendly interface
 - Implemented dynamic content rendering
 
-🔗 **[View Repository](https://github.com/ashishjha2910/Movix-Netflix-Clone)**
+🔗 [View Repository](https://github.com/ashishjha2910/Movix-Netflix-Clone)
 
 ---
 
-# 📜 Certifications
+## 🤖 Jarvis Voice Assistant
+
+**Flutter • Dart • OpenAI API • Speech Recognition**
+
+An AI-powered voice assistant project currently in development, exploring **voice-based interaction, conversational AI, API integration, and cross-platform mobile application development**.
+
+### 🚧 Project Status
+
+**In Development**
+
+### ✨ Planned Features
+
+- 🎙️ Voice-based user interaction
+- 🗣️ Speech-to-text input
+- 🤖 AI-powered responses using the OpenAI API
+- 💬 Interactive conversational experience
+- 🔊 Voice response capabilities
+- 📱 Cross-platform Flutter application
+
+### 🔍 What I'm Exploring
+
+- 🔌 OpenAI API integration for AI-powered responses
+- 🎙️ Speech recognition and voice-based input
+- 🔄 Interaction flow between users and AI assistants
+- 📱 Flutter-based cross-platform application development
+- 🧩 AI agent capabilities and tool-based workflows
+
+🔗 [View Repository](https://github.com/ashishjha2910/Jarvis-Voice-Assistant)
+
+---
+
+## 📜 Certifications
 
 - ☕ **Java Certification** — Infosys SpringBoard
 - 🌐 **HTML & CSS Certification** — Infosys SpringBoard
@@ -185,7 +189,7 @@ A responsive movie discovery interface inspired by modern streaming platforms.
 
 ---
 
-# 🔗 Connect With Me
+## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-kumar-99993823b/)
 
@@ -203,17 +207,10 @@ A responsive movie discovery interface inspired by modern streaming platforms.
 
 ## 📊 GitHub Activity
 
-[![Ashish's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashishjha2910&theme=github-compact)](https://github.com/ashishjha2910)
+![Ashish's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashishjha2910&theme=github-compact)
 
 ---
 
-### 🚀 Always Learning. Always Building.
+## 🚀 Always Learning. Always Building.
 
-I'm continuously learning new technologies, improving my problem-solving skills, and building projects that help me understand modern software and AI development.
-
-### 🧰 Tools & IDEs
-
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+I'm continuously learning new technologies, improving my problem-solving skills, and building projects that help me understand modern software, backend, and AI development.

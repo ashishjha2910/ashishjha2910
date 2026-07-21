@@ -209,7 +209,5 @@ A responsive movie discovery interface inspired by modern streaming platforms.
 
 ---
 
-langs/?username=ashishjha2910&layout=compact&theme=vision-friendly-dark" alt="Top Languages" height="180"/>
-
 </div>
 

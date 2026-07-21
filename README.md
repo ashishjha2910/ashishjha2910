@@ -59,7 +59,7 @@ MySQL • SQLite • Firebase
 
 ### 🤖 AI & API Integration
 
-OpenAI API • REST API Integration • Speech Recognition
+OpenAI API • REST API Integration • Speech Recognition (Exploring)
 
 ### 🧰 Tools & Development
 
@@ -149,7 +149,7 @@ A responsive movie discovery interface inspired by modern streaming platforms.
 
 ## 🤖 Jarvis Voice Assistant
 
-**Flutter • Dart • OpenAI API • Speech Recognition**
+**Flutter • Dart • OpenAI API • Speech Recognition (Exploring)**
 
 An AI-powered voice assistant project currently in development, exploring **voice-based interaction, conversational AI, API integration, and cross-platform mobile application development**.
 

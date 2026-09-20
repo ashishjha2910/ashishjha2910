@@ -1,20 +1,36 @@
 # 👋 Hi, I'm Ashish Kumar
 
-🎓 **B.Tech CSE Graduate** | 💻 **Java Full-Stack Developer** | 🤖 **Backend & AI Enthusiast**
+🎓 **B.Tech CSE Graduate** | 🌐 **Network & Cloud Automation** | 💻 **Java & Python Developer**
 
-I'm a Computer Science graduate interested in building reliable, scalable, and user-focused software applications. I have hands-on experience with **Java, Spring Boot, SQL, REST APIs, and web technologies**, and I'm currently expanding my skills in **Python, FastAPI, MongoDB, and AI-powered applications**.
+I build **Python automation for CDN, DNS and certificate operations at scale**. I'm a Computer Science graduate and currently a **Network & Systems Automation Intern at Times Internet, Noida**, where I automate a large Akamai environment. I also have a solid **Java and Spring Boot** backend foundation, and I'm looking for a **Network/Cloud Automation, DevOps or Backend Engineering** role.
 
-- 💻 Hands-on experience with **Java, Spring Boot, SQL, REST APIs, and web technologies**
-- 🔨 Built projects involving **backend development, databases, authentication, and full-stack application development**
-- 🤖 Exploring **LLM APIs, conversational AI, and AI-powered applications**
-- 🐍 Currently learning **Python, FastAPI, and MongoDB**
-- 🧩 Exploring **AI agents, tool-based workflows, and modern backend architecture**
-- 🎯 Interested in opportunities where I can contribute to real-world projects and grow as a software developer
+- 🌐 Portfolio: [ashishjha2910.github.io](https://ashishjha2910.github.io)
+- 💼 LinkedIn: [linkedin.com/in/ashish-kumar258](https://www.linkedin.com/in/ashish-kumar258)
 - 📫 Email: **ashishdss258@gmail.com**
 
 ---
 
+## 🚀 What I'm Working On
+
+- 🐍 Automating **DNS/CNAME resolution and certificate inventory** for thousands of Akamai-hosted domains with **Python and dnspython**
+- ⚙️ Building **resumable, rate-limited, multi-threaded scripts** that process tens of thousands of records against live APIs
+- 📊 Building an internal **Flask + SQLite dashboard** that brings Akamai property, origin, certificate and DNS data into one place
+- 🧩 Exploring **LLM APIs, AI agents and modern backend architecture**
+
+---
+
 ## 💼 Experience
+
+### Network & Systems Automation Intern — Times Internet Limited
+
+📍 Noida, India | 📅 August 2026 – Present
+
+- Automated **DNS/CNAME resolution for 3,172+ SAN domains** from the certificate inventory using **Python and dnspython**, and validated results against Linux `dig`
+- Built a **multi-source Business Unit mapping pipeline** that raised verified coverage to **82%** with full source traceability
+- Rebuilt a fragile legacy script with **retry/backoff, checkpointing and resumable runs**, now processing **1,510 properties with zero failures**
+- Parallelised a mapping script with an **8-worker thread pool**, about **30-40x faster**, covering **1,873 properties**
+- Audited Akamai user access and flagged accounts for a security cleanup review
+- Fixed silent data-quality bugs in legacy scripts and verified each fix against live API and DNS results
 
 ### Java Full Stack Trainee — KodNest Technologies
 
@@ -23,14 +39,11 @@ I'm a Computer Science graduate interested in building reliable, scalable, and u
 - Completed hands-on training in **Core Java, SQL, Spring Boot, REST APIs, Git, and Software Testing**
 - Built practical applications using **Java, Spring Boot, databases, and web technologies**
 - Worked on coding exercises, debugging, database design, and software development practices
-- Strengthened problem-solving skills through hands-on development and technical assignments
-- Gained practical exposure to **Java Full-Stack development and software engineering workflows**
 
 ---
 
 ## 🧠 Currently Learning & Exploring
 
-- 🐍 **Python** for backend and AI development
 - ⚡ **FastAPI** for modern REST API development
 - 🍃 **MongoDB** and NoSQL database development
 - 🤖 **LLM APIs** and AI-powered applications
@@ -43,11 +56,19 @@ I'm a Computer Science graduate interested in building reliable, scalable, and u
 
 ### 👨‍💻 Programming Languages
 
-Java • Python • JavaScript • SQL • HTML • CSS
+Python • Java • SQL • JavaScript • C++ • Bash • HTML • CSS
+
+### ⚙️ Automation & APIs
+
+Akamai PAPI / CPS / EdgeGrid APIs • REST APIs • pandas • requests • dnspython • openpyxl • Multithreading
+
+### 🌐 Networking & Security
+
+DNS • CDN • HTTP/HTTPS • TCP/IP • SSL/TLS • WAF • IAM
 
 ### 🚀 Backend & APIs
 
-Spring Boot • REST APIs • JDBC
+Spring Boot • Spring Security • REST APIs • JDBC
 
 ### 🎨 Frontend & UI
 
@@ -61,9 +82,9 @@ MySQL • SQLite • Firebase
 
 OpenAI API • REST API Integration • Speech Recognition (Exploring)
 
-### 🧰 Tools & Development
+### 🧰 Systems & Tools
 
-Git • GitHub • IntelliJ IDEA • VS Code
+Linux (Ubuntu) • SSH • WSL • Git • GitHub • Postman • IntelliJ IDEA • VS Code
 
 ### 🧠 Core Concepts
 
@@ -72,6 +93,20 @@ Object-Oriented Programming • Data Structures & Algorithms • DBMS • SDLC �
 ---
 
 # 📦 Featured Projects
+
+## 🌐 Akamai Operations Dashboard
+
+**Python • Flask • SQLite • Akamai API • HTML/CSS/JS**
+
+An internal full-stack dashboard that mirrors Akamai Control Center and brings 8+ live data sections into one browsable source of truth. It was built during my internship at Times Internet, so the code is not public.
+
+### 🔨 What I Built
+
+- Flask + SQLite backend with a **scheduled fetcher pipeline** (cron/systemd) and a JavaScript frontend
+- Consolidated properties, origins, certificates, users and DNS checks, covering **64,399+ origin rows**
+- Decoupled the UI from Akamai's API: the site reads only from the database while independent fetcher scripts handle all API calls
+
+---
 
 ## 🧠 Online Test Management System
 
@@ -166,15 +201,17 @@ An AI-powered voice assistant project currently in development, exploring **voic
 - 🔊 Voice response capabilities
 - 📱 Cross-platform Flutter application
 
-### 🔍 What I'm Exploring
-
-- 🔌 OpenAI API integration for AI-powered responses
-- 🎙️ Speech recognition and voice-based input
-- 🔄 Interaction flow between users and AI assistants
-- 📱 Flutter-based cross-platform application development
-- 🧩 AI agent capabilities and tool-based workflows
-
 🔗 [View Repository](https://github.com/ashishjha2910/Jarvis-Voice-Assistant)
+
+---
+
+## 🌐 Portfolio Website
+
+**HTML • CSS • JavaScript • GitHub Pages**
+
+A responsive single-page portfolio with light and dark mode, built without frameworks and hosted free on GitHub Pages.
+
+🔗 [Live site](https://ashishjha2910.github.io) | [View Repository](https://github.com/ashishjha2910/ashishjha2910.github.io)
 
 ---
 
@@ -182,35 +219,26 @@ An AI-powered voice assistant project currently in development, exploring **voic
 
 - ☕ **Java Certification** — Infosys SpringBoard
 - 🌐 **HTML & CSS Certification** — Infosys SpringBoard
+- 💻 **Java Full Stack Development** — KodNest
 - 🗄️ **SQL (Intermediate)** — HackerRank
 - 🧩 **Problem Solving (Intermediate)** — HackerRank
+- 🔐 **Cybersecurity Essentials, Cloud Security, Introduction to Cybersecurity** — Cisco Networking Academy
 - 🍃 **MongoDB Basics Certification**
-- 💻 **Java Full Stack Development** — KodNest
 
 ---
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-kumar-99993823b/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/ashishjha2910)
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/ashhish29/)
-
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/ashishdvitj/)
-
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ashishdss258)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A7A6E?logo=googlechrome&logoColor=white)](https://ashishjha2910.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-kumar258)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashishdss258@gmail.com)
 
----
-
-## 📊 GitHub Activity
-
-![Ashish's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashishjha2910&theme=github-compact)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/ashhish29/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/ashishdvitj/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ashishdss258)
 
 ---
 
 ## 🚀 Always Learning. Always Building.
 
-I'm continuously learning new technologies, improving my problem-solving skills, and building projects that help me understand modern software, backend, and AI development.
+I'm continuously learning, automating real infrastructure work, and building projects that connect networking, backend and AI.

@@ -2,7 +2,7 @@
 
 🎓 **B.Tech CSE Graduate** | 🌐 **Network & Cloud Automation** | 💻 **Java & Python Developer**
 
-I build **Python automation for CDN, DNS and infrastructure operations**. I'm a Computer Science graduate and currently an **Information Security / Infrastructure Intern at Times Internet, Noida**, supporting automation and operational tooling across a large Akamai environment. I also have a solid **Java and Spring Boot** backend foundation, and I'm looking for a **Network/Cloud Automation, DevOps or Backend Engineering** role.
+I build **Python automation for CDN, DNS and infrastructure operations**. I'm a Computer Science graduate and currently an **Information Security / Infrastructure Intern at Times Internet, Noida**, supporting infrastructure automation and operational tooling. I also have a solid **Java and Spring Boot** backend foundation, and I'm looking for a **Network/Cloud Automation, DevOps or Backend Engineering** role.
 
 - 🌐 Portfolio: [ashishjha2910.github.io](https://ashishjha2910.github.io)
 - 💼 LinkedIn: [linkedin.com/in/ashish-kumar258](https://www.linkedin.com/in/ashish-kumar258)
@@ -14,7 +14,7 @@ I build **Python automation for CDN, DNS and infrastructure operations**. I'm a 
 
 - 🐍 Automating **DNS/CNAME validation and certificate inventory** with **Python and dnspython**
 - ⚙️ Building **reliable, rate-limited and resumable automation** for large infrastructure inventories using live APIs
-- 📊 Building an internal **Flask + SQLite dashboard** to organize infrastructure inventory and operational checks
+- 📊 Developing an internal operations dashboard to support infrastructure visibility and operational checks (implementation details kept private)
 - 🧩 Exploring **LLM APIs, AI agents and modern backend architecture**
 
 ---
@@ -25,12 +25,10 @@ I build **Python automation for CDN, DNS and infrastructure operations**. I'm a 
 
 📍 Noida, India | 📅 August 2026 – Present
 
-- Automated **DNS/CNAME validation** for certificate inventory using **Python and dnspython**, and validated results with Linux `dig`
-- Built a **multi-source Business Unit mapping pipeline** with source traceability and validation
-- Improved legacy automation reliability with **retry/backoff, checkpointing and resumable execution**
-- Optimised inventory processing with **concurrent execution**, reducing runtime for large property datasets
-- Audited Akamai user access and flagged accounts for a security cleanup review
-- Fixed silent data-quality bugs in legacy scripts and verified each fix against live API and DNS results
+- Automated **DNS/CNAME validation and certificate inventory checks** using Python, dnspython and Linux `dig`
+- Built API-driven infrastructure inventory and **Business Unit mapping workflows** with source traceability
+- Improved automation reliability through **retry/backoff, checkpointing, resumable execution and concurrency**
+- Performed access and data-quality reviews, validating results against live API and DNS responses
 
 ### Java Full Stack Trainee — KodNest Technologies
 
@@ -98,13 +96,13 @@ Object-Oriented Programming • Data Structures & Algorithms • DBMS • SDLC �
 
 **Python • Flask • SQLite • Akamai API • HTML/CSS/JS**
 
-An internal full-stack dashboard that mirrors Akamai Control Center and brings 8+ live data sections into one browsable source of truth. It was built during my internship at Times Internet, so the code is not public.
+An internal operations dashboard developed during my internship to support infrastructure visibility and operational checks. The implementation is private and is not available in this repository.
 
 ### 🔨 What I Built
 
-- Flask + SQLite backend with scheduled data collection and a JavaScript frontend
-- Consolidated infrastructure inventory and operational checks into a single internal interface
-- Kept the dashboard read-only, separating data collection from the user interface
+- Developed a Python/Flask backend and browser-based interface for organizing operational information
+- Consolidated infrastructure visibility and operational checks into one internal interface
+- Designed the interface to present collected information without exposing internal implementation details
 
 ---
 

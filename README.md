@@ -2,7 +2,7 @@
 
 🎓 **B.Tech CSE Graduate** | 🌐 **Network & Cloud Automation** | 💻 **Java & Python Developer**
 
-I build **Python automation for CDN, DNS and certificate operations at scale**. I'm a Computer Science graduate and currently a **Network & Systems Automation Intern at Times Internet, Noida**, where I automate a large Akamai environment. I also have a solid **Java and Spring Boot** backend foundation, and I'm looking for a **Network/Cloud Automation, DevOps or Backend Engineering** role.
+I build **Python automation for CDN, DNS and infrastructure operations**. I'm a Computer Science graduate and currently an **Information Security / Infrastructure Intern at Times Internet, Noida**, supporting automation and operational tooling across a large Akamai environment. I also have a solid **Java and Spring Boot** backend foundation, and I'm looking for a **Network/Cloud Automation, DevOps or Backend Engineering** role.
 
 - 🌐 Portfolio: [ashishjha2910.github.io](https://ashishjha2910.github.io)
 - 💼 LinkedIn: [linkedin.com/in/ashish-kumar258](https://www.linkedin.com/in/ashish-kumar258)
@@ -12,29 +12,29 @@ I build **Python automation for CDN, DNS and certificate operations at scale**. 
 
 ## 🚀 What I'm Working On
 
-- 🐍 Automating **DNS/CNAME resolution and certificate inventory** for thousands of Akamai-hosted domains with **Python and dnspython**
-- ⚙️ Building **resumable, rate-limited, multi-threaded scripts** that process tens of thousands of records against live APIs
-- 📊 Building an internal **Flask + SQLite dashboard** that brings Akamai property, origin, certificate and DNS data into one place
+- 🐍 Automating **DNS/CNAME validation and certificate inventory** with **Python and dnspython**
+- ⚙️ Building **reliable, rate-limited and resumable automation** for large infrastructure inventories using live APIs
+- 📊 Building an internal **Flask + SQLite dashboard** to organize infrastructure inventory and operational checks
 - 🧩 Exploring **LLM APIs, AI agents and modern backend architecture**
 
 ---
 
 ## 💼 Experience
 
-### Network & Systems Automation Intern — Times Internet Limited
+### Information Security / Infrastructure Intern — Times Internet Limited
 
 📍 Noida, India | 📅 August 2026 – Present
 
-- Automated **DNS/CNAME resolution for 3,172+ SAN domains** from the certificate inventory using **Python and dnspython**, and validated results against Linux `dig`
-- Built a **multi-source Business Unit mapping pipeline** that raised verified coverage to **82%** with full source traceability
-- Rebuilt a fragile legacy script with **retry/backoff, checkpointing and resumable runs**, now processing **1,510 properties with zero failures**
-- Parallelised a mapping script with an **8-worker thread pool**, about **30-40x faster**, covering **1,873 properties**
+- Automated **DNS/CNAME validation** for certificate inventory using **Python and dnspython**, and validated results with Linux `dig`
+- Built a **multi-source Business Unit mapping pipeline** with source traceability and validation
+- Improved legacy automation reliability with **retry/backoff, checkpointing and resumable execution**
+- Optimised inventory processing with **concurrent execution**, reducing runtime for large property datasets
 - Audited Akamai user access and flagged accounts for a security cleanup review
 - Fixed silent data-quality bugs in legacy scripts and verified each fix against live API and DNS results
 
 ### Java Full Stack Trainee — KodNest Technologies
 
-📍 Bengaluru, India | 📅 September 2025 – March 2026
+📍 Bengaluru, India | 📅 2025
 
 - Completed hands-on training in **Core Java, SQL, Spring Boot, REST APIs, Git, and Software Testing**
 - Built practical applications using **Java, Spring Boot, databases, and web technologies**
@@ -102,9 +102,9 @@ An internal full-stack dashboard that mirrors Akamai Control Center and brings 8
 
 ### 🔨 What I Built
 
-- Flask + SQLite backend with a **scheduled fetcher pipeline** (cron/systemd) and a JavaScript frontend
-- Consolidated properties, origins, certificates, users and DNS checks, covering **64,399+ origin rows**
-- Decoupled the UI from Akamai's API: the site reads only from the database while independent fetcher scripts handle all API calls
+- Flask + SQLite backend with scheduled data collection and a JavaScript frontend
+- Consolidated infrastructure inventory and operational checks into a single internal interface
+- Kept the dashboard read-only, separating data collection from the user interface
 
 ---
 
